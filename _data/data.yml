@@ -41,20 +41,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I studied Computer Science in Darmstadt. Besides, I am an enthusiast of Machine Learning, Computer Vision and Augmented Reality.
+      Janik Tinz, born 1996, works as a Junior Software Engineer at Accso Accelerated Solutions GmbH in Darmstadt. His research topics are Industry 4.0, Augmented Reality and Machine Learning. I am always open to new projects in these fields. Don't hesitate to contact me!
 education:
     - degree: Master of Science in Data Science
-      university: Hochschule Darmstadt - University of Applied Sciences
+      university: University of Applied Sciences, Darmstadt
       time: 2019 - Present
       details: |
           - Computer Vision
           - Statistics
     - degree: Bachelor of Science in Computer Science
-      university: Hochschule Darmstadt - University of Applied Sciences
+      university: University of Applied Sciences, Darmstadt
       time: 2015 - 2019
       details: |
           - Augmented Reality
           - Internet of Things
+          - Databases
 experiences:
     - role: Junior Software Engineer
       time: 2019 - Present
@@ -106,6 +107,7 @@ theses:
       - title: Virtuelle Erweiterung eines physischen Modells mithilfe von Augmented Reality unter Berücksichtigung eines sensor- und aktorbasierten Kommunikationssystems
         link: 
         authors: Janik Tinz
+        conference: University of Applied Sciences - Darmstadt, September 2019
   
 skills:
     title: Skills &amp; Proficiency
