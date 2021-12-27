@@ -41,12 +41,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I work as a Junior Software Engineer at Accso Accelerated Solutions GmbH in Darmstadt. My research topics are Industry 4.0, Augmented Reality and Machine Learning. I am always open to new projects in these fields. Don't hesitate to contact me!
+      I work as a Software Engineer at Accso Accelerated Solutions GmbH in Darmstadt. My research topics are Industry 4.0, Augmented Reality and Machine Learning. I am always open to new projects in these fields. Don't hesitate to contact me!
 education:
     - degree: Master of Science in Data Science
       university: University of Applied Sciences, Darmstadt
       time: 2019 - Present
       details: |
+          - Machine Learning
           - Computer Vision
           - Statistics
     - degree: Bachelor of Science in Computer Science
@@ -57,14 +58,22 @@ education:
           - Internet of Things
           - Databases
 experiences:
+    - role: Software Engineer
+      time: 2021 - Present
+      company: Accso Accelerated Solutions GmbH, Darmstadt
+      details: |
+        Tasks: 
+          - Data Analytics
+          - Computer Vision
+          - Industrial Internet of Things
     - role: Junior Software Engineer
-      time: 2019 - Present
+      time: 2019 - 2021
       company: Accso Accelerated Solutions GmbH, Darmstadt
       details: |
         Tasks: 
           - Data Analytics
           - Augmented Reality
-          - Internet of Things
+          - Industrial Internet of Things
     - role: Teaching Assistant
       time: 2017 - 2019
       company: University of Applied Sciences, Darmstadt
