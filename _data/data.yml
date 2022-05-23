@@ -45,7 +45,7 @@ career-profile:
 education:
     - degree: Master of Science in Data Science
       university: University of Applied Sciences, Darmstadt
-      time: 2019 - Present
+      time: 2019 - 2022
       details: |
           - Machine Learning
           - Computer Vision
@@ -118,10 +118,15 @@ theses:
     intro: |
       
     papers:
-      - title: Virtuelle Erweiterung eines physischen Modells mithilfe von Augmented Reality unter Berücksichtigung eines sensor- und aktorbasierten Kommunikationssystems
-        link: 
-        authors: Janik Tinz
-        conference: University of Applied Sciences - Darmstadt, Department Computer Science (2019)
+    - title: Realisierung der Erklärbarkeit eines Deep Learning Modells für die Qualitätssicherung in der Spritzgussfertigung
+      link: 
+      authors: Janik Tinz
+      conference: University of Applied Sciences - Darmstadt, Department Mathematics and Natural Sciences (2022)
+
+    - title: Virtuelle Erweiterung eines physischen Modells mithilfe von Augmented Reality unter Berücksichtigung eines sensor- und aktorbasierten Kommunikationssystems
+      link: 
+      authors: Janik Tinz
+      conference: University of Applied Sciences - Darmstadt, Department Computer Science (2019)
   
 # skills:
 #     title: Skills &amp; Proficiency
