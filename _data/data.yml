@@ -19,7 +19,7 @@ sidebar:
     github: janiktinz
     gitlab: janiktinz
     bitbucket:
-    twitter: '@janiktinz'
+    twitter: 'janiktinz'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,12 +37,22 @@ sidebar:
 
       - item: Surfing
         link:
+      
+      - item: Travel
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      I work as a Software Engineer at Accso Accelerated Solutions GmbH in Darmstadt. My research topics are Industry 4.0, Augmented Reality and Machine Learning. I am always open to new projects in these fields. Don't hesitate to contact me!
+      I am a Data Scientist and Software Engineer. My research areas are topics in the financial sector with a focus on Deep Learning. I am always open to new projects in these fields. Don't hesitate to contact me!
 education:
+    - degree: Master of Business Administration in Finance
+      university: AIM - Austrian Institute of Management, Burgenland
+      time: 2023 - Present
+      details: |
+          - Private Equity and Venture Capital
+          - Investments
+          - Green Finance
     - degree: Master of Science in Data Science
       university: University of Applied Sciences, Darmstadt
       time: 2019 - 2022
@@ -58,8 +68,16 @@ education:
           - Internet of Things
           - Databases
 experiences:
+    - role: Data Science Blogger
+      time: 2023 - Present
+      company: Tinz Twins
+      details: |
+        Tasks: 
+          - Data Analytics
+          - Deep Learning
+          - Content Creation
     - role: Software Engineer
-      time: 2021 - Present
+      time: 2021 - 2023
       company: Accso Accelerated Solutions GmbH, Darmstadt
       details: |
         Tasks: 
@@ -98,10 +116,40 @@ publications:
     intro: |
       
     papers:
+      - title: Visualisierung des Trainingsprozesses eines Convolutional Neural Networks
+        link: "https://www.grin.com/document/1041175"
+        authors: Janik Tinz
+        conference: "GRIN Verlag, 2021"
+
+      - title: Aufwandsschätzung in Data Science Projekten
+        link: "https://www.grin.com/document/1041312"
+        authors: Janik Tinz
+        conference: "GRIN Verlag, 2021"
+
+      - title: Realisierung eines Beleuchtungsmodells mithilfe von Ray-Tracing
+        link: "https://www.grin.com/document/1041332"
+        authors: Patrick Tinz and Janik Tinz
+        conference: "GRIN Verlag, 2021"
+
+      - title: Vermessung von Objekten ohne Referenzobjekt. Literatur-Review
+        link: "https://www.grin.com/document/1036831"
+        authors: Patrick Tinz and Janik Tinz
+        conference: "GRIN Verlag, 2020"
+
+      - title: Vermessung von spiegelnden Werkzeugen mithilfe von OpenCV
+        link: "https://www.grin.com/document/1036832"
+        authors: Janik Tinz and Patrick Tinz
+        conference: "GRIN Verlag, 2020"
+
+      - title: Zur Lokalisation von Gesichtern. Echtzeitdetektion in Drohnenaufnahmen
+        link: "https://www.grin.com/document/1022608"
+        authors: Janik Tinz and Patrick Tinz
+        conference: "GRIN Verlag, 2020"
+
       - title: Mixed-Reality-Apps für die Industrie 4.0 - SmARt Factory - Planen, Analysieren und Visualisieren
         link: https://kiosk.entwickler.de/windows-developer-magazin/windows-developer-magazin-10-20/mixed-reality-apps-fuer-die-industrie-4-0/
         authors: Patrick Tinz and Janik Tinz
-        conference: windows.developer
+        conference: windows.developer, 10.2020
 
       - title: Knowledge Management Models for the Smart Factory - A Comparative Analysis of Current Approaches
         link: "https://www.researchgate.net/profile/Patrick_Tinz/publication/336225680_Knowledge_Management_Models_for_the_Smart_Factory_A_Comparative_Analysis_of_Current_Approaches/links/5d96165792851c2f70e80636/Knowledge-Management-Models-for-the-Smart-Factory-A-Comparative-Analysis-of-Current-Approaches.pdf"
@@ -112,6 +160,11 @@ publications:
         link: "https://www.hanser-elibrary.com/doi/abs/10.3139/104.112101"
         authors: Janik Tinz, Patrick Tinz and Stefan Zander
         conference: "ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb June 2019, Vol. 114, No 6. Pages: 404–407"
+      
+      - title: Die Rolle des Wissensmanagements in der Industrie 4.0
+        link: "https://www.grin.com/document/1022612"
+        authors: Patrick Tinz and Janik Tinz
+        conference: "GRIN Verlag, 2019"
 
 theses:
     title: Thesis
