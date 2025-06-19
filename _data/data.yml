@@ -1,0 +1,223 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Janik Tinz
+    tagline: Data Scientist
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email:
+    phone: 
+    website: tinztwins.com #do not add http://
+    linkedin: janiktinz
+    github: janiktinz
+    bitbucket:
+    #twitter: 'janiktinz'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: German
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Football
+        link:
+
+      - item: E-Mobility
+        link:
+      
+      - item: Travel
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am a Data Scientist and Software Engineer. My research areas are topics in the financial sector with a focus on Deep Learning. I am always open to new projects in these fields. Don't hesitate to contact me!
+education:
+    - degree: Master of Business Administration in Finance
+      university: University of Applied Sciences, Burgenland
+      time: 2024 - 2026
+      details: |
+          - Private Equity and Venture Capital
+          - Investments
+          - Green Finance
+    - degree: Master of Science in Data Science
+      university: University of Applied Sciences, Darmstadt
+      time: 2019 - 2022
+      details: |
+          - Machine Learning
+          - Computer Vision
+          - Statistics
+    - degree: Bachelor of Science in Computer Science
+      university: University of Applied Sciences, Darmstadt
+      time: 2015 - 2019
+      details: |
+          - Augmented Reality
+          - Internet of Things
+          - Databases
+experiences:
+    - role: Financial Analyst
+      time: 2024 - Present
+      company: Tinz Twins Invest -
+      company_website: tinztwinsinvest.de
+      details: |
+        Tasks: 
+          - Stock Analysis 
+          - Entrepreneurship
+          - Content Creation
+    - role: Co-Founder
+      time: 2023 - Present
+      company: Towards Finance -
+      company_website: towardsfinance.com
+      details: |
+        Tasks: 
+          - Success Mindset
+          - Online Business 
+          - Investment Research
+    - role: Data Scientist and Software Engineer
+      time: 2023 - Present
+      company: Tinz Twins Hub -
+      company_website: tinztwinshub.com
+      details: |
+        Tasks: 
+          - Machine Learning
+          - Software Engineering
+          - Content Creation
+    - role: Software Engineer
+      time: 2021 - 2023
+      company: Accso Accelerated Solutions GmbH, Darmstadt
+      details: |
+        Tasks: 
+          - Data Analytics
+          - Computer Vision
+          - Industrial Internet of Things
+    - role: Junior Software Engineer
+      time: 2019 - 2021
+      company: Accso Accelerated Solutions GmbH, Darmstadt
+      details: |
+        Tasks: 
+          - Data Analytics
+          - Augmented Reality
+          - Industrial Internet of Things
+    - role: Teaching Assistant
+      time: 2017 - 2019
+      company: University of Applied Sciences, Darmstadt
+      details: |
+        Tasks:
+          - Teaching students in mathematics
+          - Administration of written exams
+ 
+#projects:
+    #title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    #assignments:
+      #- title: Velocity
+        #link: "#hook"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+publications:
+    title: Scientific Publications
+    intro: |
+      
+    papers:
+      - title: Visualisierung des Trainingsprozesses eines Convolutional Neural Networks*
+        link: "https://www.grin.com/document/1041175/?partner_id=5083848"
+        authors: Janik Tinz
+        conference: "GRIN Verlag, 2021"
+
+      - title: Aufwandsschätzung in Data Science Projekten*
+        link: "https://www.grin.com/document/1041312/?partner_id=5083848"
+        authors: Janik Tinz
+        conference: "GRIN Verlag, 2021"
+
+      - title: Realisierung eines Beleuchtungsmodells mithilfe von Ray-Tracing*
+        link: "https://www.grin.com/document/1041332/?partner_id=5083847"
+        authors: Patrick Tinz and Janik Tinz
+        conference: "GRIN Verlag, 2021"
+
+      - title: Vermessung von Objekten ohne Referenzobjekt. Literatur-Review*
+        link: "https://www.grin.com/document/1036831/?partner_id=5083847"
+        authors: Patrick Tinz and Janik Tinz
+        conference: "GRIN Verlag, 2020"
+
+      - title: Vermessung von spiegelnden Werkzeugen mithilfe von OpenCV*
+        link: "https://www.grin.com/document/1036832/?partner_id=5083848"
+        authors: Janik Tinz and Patrick Tinz
+        conference: "GRIN Verlag, 2020"
+
+      - title: Zur Lokalisation von Gesichtern. Echtzeitdetektion in Drohnenaufnahmen*
+        link: "https://www.grin.com/document/1022608/?partner_id=5083848"
+        authors: Janik Tinz and Patrick Tinz
+        conference: "GRIN Verlag, 2020"
+
+      - title: Mixed-Reality-Apps für die Industrie 4.0 - SmARt Factory - Planen, Analysieren und Visualisieren
+        link: https://kiosk.entwickler.de/windows-developer-magazin/windows-developer-magazin-10-20/mixed-reality-apps-fuer-die-industrie-4-0/
+        authors: Patrick Tinz and Janik Tinz
+        conference: windows.developer, 10.2020
+
+      - title: Knowledge Management Models for the Smart Factory - A Comparative Analysis of Current Approaches
+        link: "https://www.researchgate.net/profile/Patrick_Tinz/publication/336225680_Knowledge_Management_Models_for_the_Smart_Factory_A_Comparative_Analysis_of_Current_Approaches/links/5d96165792851c2f70e80636/Knowledge-Management-Models-for-the-Smart-Factory-A-Comparative-Analysis-of-Current-Approaches.pdf"
+        authors: Patrick Tinz, Janik Tinz und Stefan Zander
+        conference: In Proceedings of the 11th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2019), pages 398-404, Vienna Austria
+
+      - title: Knowledge Management Models for Smart Manufacturing – A Comparison of Current Approaches
+        link: "https://www.hanser-elibrary.com/doi/abs/10.3139/104.112101"
+        authors: Janik Tinz, Patrick Tinz and Stefan Zander
+        conference: "ZWF Zeitschrift für wirtschaftlichen Fabrikbetrieb June 2019, Vol. 114, No 6. Pages: 404–407"
+      
+      - title: Die Rolle des Wissensmanagements in der Industrie 4.0*
+        link: "https://www.grin.com/document/1022612/?partner_id=5083847"
+        authors: Patrick Tinz and Janik Tinz
+        conference: "GRIN Verlag, 2019"
+
+theses:
+    title: Thesis
+    intro: |
+      
+    papers:
+    - title: Realisierung der Erklärbarkeit eines Deep Learning Modells für die Qualitätssicherung in der Spritzgussfertigung
+      link: 
+      authors: Janik Tinz
+      conference: University of Applied Sciences - Darmstadt, Department Mathematics and Natural Sciences (2022)
+
+    - title: Virtuelle Erweiterung eines physischen Modells mithilfe von Augmented Reality unter Berücksichtigung eines sensor- und aktorbasierten Kommunikationssystems
+      link: 
+      authors: Janik Tinz
+      conference: University of Applied Sciences - Darmstadt, Department Computer Science (2019)
+  
+# skills:
+#     title: Skills &amp; Proficiency
+
+#     toolset:
+#       - name: Python
+#         level: 80%
+
+#       - name: R
+#         level: 60%
+
+#       - name: C/ C++
+#         level: 90%
+
+#       - name: HTML5 & CSS
+#         level: 95%
+
+#       - name: Unity
+#         level: 85%
+
+footer: >
+    <p font-size="27rem" style="color:grey"><a href="https://tinztwinshub.com/advertisement/">*Ad / Affiliate-Link</a></p>
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
